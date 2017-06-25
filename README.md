@@ -1,2 +1,2 @@
 # PaginaWebHTML
-Primera página web en HTML, sin CSS
+Personal web page
