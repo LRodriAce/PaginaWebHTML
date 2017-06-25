@@ -1,2 +1,2 @@
-# PaginaWebHTML
-Personal web page
+# Personal webpage
+HTML, SASS, media queries
