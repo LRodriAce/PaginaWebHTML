@@ -1,10 +1,21 @@
+@media (max-width: 480px){
+  .container{
+    display: inline-block;
+  }
+}
+
+@media (min-width: 481px){
+  .container{
+    display: flex;
+    flex-direction: column;
+  }
+}
+
 .container{
   width: 100vw;
   height: 100vh;
   background-image: url("../img/milkyWay.jpg");
   background-size: cover;
-  display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
 }
